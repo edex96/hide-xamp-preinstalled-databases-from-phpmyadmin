@@ -1,0 +1,1 @@
+# hide-xamp-preinstalled-databases-from-phpmyadmin
